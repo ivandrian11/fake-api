@@ -1,0 +1,104 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Koko Gaffi Blue",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-gaffi-blue.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Koko Lihaf Green",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-lihaf-green.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Koko Sharif Yellow",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-sharif-yellow.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Koko Gaffi Blue",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-gaffi-blue.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Koko Lihaf Green",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-lihaf-green.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Koko Sharif Yellow",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-sharif-yellow.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Koko Bahy Khaky",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-bahy-khaky.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Koko Izhdi Grey",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-izhdi-grey.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Koko Aqsad Red",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-aqsad-red.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Koko Aryan Grey",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-aryan-grey.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Koko Opick Green",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-opick-green.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Koko Derya Black",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "koko-derya-black.jpg"
+    }
+  ],
+  "cart": [],
+  "order": []
+}
