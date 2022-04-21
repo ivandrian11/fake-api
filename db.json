@@ -99,6 +99,44 @@
       "gambar": "koko-derya-black.jpg"
     }
   ],
-  "cart": [],
+  "cart": [
+    {
+      "jumlah": "1",
+      "product": {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Koko Gaffi Blue",
+        "harga": 16500,
+        "is_ready": true,
+        "gambar": "koko-gaffi-blue.jpg"
+      },
+      "id": 1
+    },
+    {
+      "jumlah": "1",
+      "product": {
+        "id": 9,
+        "kode": "K-09",
+        "nama": "Koko Derya Black",
+        "harga": 16500,
+        "is_ready": true,
+        "gambar": "koko-derya-black.jpg"
+      },
+      "id": 2
+    },
+    {
+      "jumlah": "1",
+      "catatan": "Ukuran L ya kak",
+      "product": {
+        "id": 6,
+        "kode": "K-06",
+        "nama": "Koko Aqsad Red",
+        "harga": 16500,
+        "is_ready": true,
+        "gambar": "koko-aqsad-red.jpg"
+      },
+      "id": 3
+    }
+  ],
   "order": []
 }
